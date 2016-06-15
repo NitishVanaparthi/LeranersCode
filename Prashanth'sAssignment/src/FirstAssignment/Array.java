@@ -13,5 +13,7 @@ public class Array {
 		//here we can use this program like by using the for (int i=0; i<arraysize.length,i++)
 		boolean b = Arrays.asList(y).contains(x);
 		System.out.println(b);
+        System.out.println("Changes that are to forked and update the master");
+        system.out.println("they dont have a POM");
 	}
 }
