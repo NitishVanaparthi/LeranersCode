@@ -8,9 +8,6 @@ public class Array {
 
 	public static void main(String[] args) {
 		Integer x = new Integer(19);
-//asList returns a fixed size list so here i used this method
-		//contains here it returns true if the array contains list of values 
-		//here we can use this program like by using the for (int i=0; i<arraysize.length,i++)
 		boolean b = Arrays.asList(y).contains(x);
 		System.out.println(b);
         System.out.println("Changes that are to forked and update the master");

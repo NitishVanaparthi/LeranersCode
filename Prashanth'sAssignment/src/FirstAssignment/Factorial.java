@@ -20,5 +20,11 @@ public class Factorial {
 		System.out.println("Factorial of entered number is: " + factorial);
 		a.close();
 	}
+    
+    public static void Demo() {
+		System.out.println("Enter the number:");
+		System.out.println("Factorial of entered number is: " + factorial);
+        System.out.println("Facts of Factorial only for Git");
+		}
 
 }
